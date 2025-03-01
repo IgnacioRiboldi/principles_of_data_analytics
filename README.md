@@ -17,3 +17,7 @@ by Ignacio Riboldi
 - GitHub
 - Codespaces
 - Jupyter
+
+Resources:
+https://www.w3schools.com/
+https://archive.ics.uci.edu/
