@@ -19,6 +19,9 @@ by Ignacio Riboldi
 - Jupyter
 
 Resources:
+
 https://www.w3schools.com/
+
 https://archive.ics.uci.edu/
+
 https://scikit-learn.org/
