@@ -25,5 +25,3 @@ https://www.w3schools.com/
 https://archive.ics.uci.edu/
 
 https://scikit-learn.org/
-
-https://scikit-learn.org/
