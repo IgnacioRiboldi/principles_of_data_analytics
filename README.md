@@ -20,4 +20,7 @@ by Ignacio Riboldi
 
 Resources:
 https://www.w3schools.com/
+
 https://archive.ics.uci.edu/
+
+https://scikit-learn.org/
