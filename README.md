@@ -25,3 +25,13 @@ https://www.w3schools.com/
 https://archive.ics.uci.edu/
 
 https://scikit-learn.org/
+
+https://pandas.pydata.org/
+
+https://matplotlib.org/
+
+https://seaborn.pydata.org/#
+
+https://www.askpython.com/
+
+https://numpy.org/
