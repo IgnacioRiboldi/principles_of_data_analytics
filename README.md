@@ -35,3 +35,5 @@ https://seaborn.pydata.org/# - Python data visualization library based on matplo
 https://www.askpython.com/ - Blog that helped out with some tasks.
 
 https://numpy.org/ - Open-source Python library that helps with efficient numerical and scientific computing. It provides powerful data structures like multidimensional arrays and a wide range of mathematical, statistical, and linear algebra functions.
+
+https://chatgpt.com/ - When I was stuck on something or I was getting some errors, I resorted to the help of Chat GPT. I have never used AI before until this course, and I found it amazing, because is not that corrects your code, it also explain it, what is more helpful to understand.
