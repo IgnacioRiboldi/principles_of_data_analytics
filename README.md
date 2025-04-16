@@ -20,18 +20,18 @@ by Ignacio Riboldi
 
 Resources:
 
-https://www.w3schools.com/
+https://www.w3schools.com/ - Helped a lot with Matplotlib and also with different python modules.
 
-https://archive.ics.uci.edu/
+https://archive.ics.uci.edu/ - Website where I got the datasets for the tasks.
 
-https://scikit-learn.org/
+https://scikit-learn.org/ - Got same examples more challenged to create better codings and graphics.
 
-https://pandas.pydata.org/
+https://pandas.pydata.org/ - User guide to learn how to use pandas and all the different topics can cover.
 
-https://matplotlib.org/
+https://matplotlib.org/ - Official matplotlib website, where I found different plots and what code use to 
 
-https://seaborn.pydata.org/#
+https://seaborn.pydata.org/# - Python data visualization library based on matplotlib.
 
-https://www.askpython.com/
+https://www.askpython.com/ - Blog that helped out with some tasks.
 
-https://numpy.org/
+https://numpy.org/ - Open-source Python library that helps with efficient numerical and scientific computing. It provides powerful data structures like multidimensional arrays and a wide range of mathematical, statistical, and linear algebra functions.
