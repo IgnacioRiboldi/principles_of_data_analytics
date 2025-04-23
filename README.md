@@ -6,7 +6,7 @@ by Ignacio Riboldi
 
 This repository contains weekly task for the subject Principle of Data Analytics for Atlantic technological University.
 
-'<a href=https://github.com/ianmcloughlin/principles_of_data_analytics/blob/main/assessment/tasks.md/>Assesment</a>': Created by Ian McLoughlin
+<a href=https://github.com/ianmcloughlin/principles_of_data_analytics/blob/main/assessment/tasks.md/>Assesment</a> : Created by Ian McLoughlin
 
 
 
