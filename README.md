@@ -6,11 +6,9 @@ by Ignacio Riboldi
 
 This repository contains weekly task for the subject Principle of Data Analytics for Atlantic technological University.
 
-Assesments: Created by Ian McLoughlin
+'<a href=https://github.com/ianmcloughlin/principles_of_data_analytics/blob/main/assessment/tasks.md/>Assesment</a>': Created by Ian McLoughlin
 
-'<a href=https://github.com/ianmcloughlin/principles_of_data_analytics/blob/main/assessment/tasks.md/>Tasks</a>'
 
-https://github.com/ianmcloughlin/principles_of_data_analytics/blob/main/assessment/tasks.md
 
 In this repository you can find a varied and usefull programming codes that I used for the subject.
 These are some basic programming with python modules that might be helpfull as examples.
