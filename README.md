@@ -2,6 +2,17 @@
 
 by Ignacio Riboldi
 
+## Project
+
+This repository contains weekly task for the subject Principle of Data Analytics for Atlantic technological University.
+
+Assesments: Created by Ian McLoughlin
+
+https://github.com/ianmcloughlin/principles_of_data_analytics/blob/main/assessment/tasks.md
+
+In this repository you can find a varied and usefull programming codes that I used for the subject.
+These are some basic programming with python modules that might be helpfull as examples.
+
 ## Setup
 
 1. Sign up for a free GitHub account.
@@ -17,6 +28,17 @@ by Ignacio Riboldi
 - GitHub
 - Codespaces
 - Jupyter
+
+## Modules
+
+- sklearn
+- matplotlib
+- numpy
+- seaborn
+- scipy
+- pandas
+- statmodels
+- scikit-learn
 
 Resources:
 
